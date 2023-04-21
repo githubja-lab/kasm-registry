@@ -1,0 +1,26 @@
+{
+  "description": "Chat,Meet,Call and Collaborate",
+  "docker_registry": "https://index.docker.io/v1/",
+  "name": "kasmweb/teams:1.12.0",
+  "image_src": "teams.png",
+  "categories": [
+    "Communication"
+  ],
+  "friendly_name": "MS Teams",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.13.x"
+  ],
+  "uncompressed_size_mb": 2530,
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "exec_config": {
+    "environment": {
+      "VNCOPTIONS": "-publicIP 127.0.0.1"
+    }
+  }
+}
