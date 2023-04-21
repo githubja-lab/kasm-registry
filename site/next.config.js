@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'CO3 KASM',
+    name: 'CO3 Registry',
     description: 'Kasm supported workspaces CO3.',
     icon: 'https://githubja-lab.github.io/kasm-registry/1.0/image.png',
     listUrl: 'https://githubja-lab.github.io/kasm-registry/',  
