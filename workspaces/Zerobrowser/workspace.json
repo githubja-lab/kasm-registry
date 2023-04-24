@@ -1,8 +1,8 @@
 {
-  "friendly_name": "Chrome CO3",
+  "friendly_name": "Chrome_CO3",
   "image_src": "chrome.png",
   "description": "Google Chrome is a cross-platform web browser developed by Google.",
-  "name": "kasmweb/chrome:1.13.0",
+  "name": "dockerhubja/zerobrowser:dev",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
