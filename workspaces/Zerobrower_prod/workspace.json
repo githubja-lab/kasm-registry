@@ -18,7 +18,8 @@
   "run_config": {
     "hostname": "kasm",
     "environment": {
-      "VNCOPTIONS": "-publicIP 127.0.0.1"
+      "VNCOPTIONS": "-publicIP 127.0.0.1",
+      "TZ":"America/Vancouver"
     }
   },
   "exec_config": {
