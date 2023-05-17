@@ -2,7 +2,7 @@
   "friendly_name": "Chrome_CO3",
   "image_src": "chrome.png",
   "description": "Google Chrome is a cross-platform web browser developed by Google.",
-  "name": "dockerhubja/zerobrowser:dev",
+  "name": "dockerhubja/zerobrowser:dev-1.13",
   "cores": 2,
   "memory": 2768,
   "uncompressed_size_mb": 2590,
@@ -18,7 +18,8 @@
   "run_config": {
     "hostname": "kasm",
     "environment": {
-      "VNCOPTIONS": "-publicIP 127.0.0.1"
+      "VNCOPTIONS": "-publicIP 127.0.0.1",
+      "TZ":"America/Vancouver"
     }
   },
   "exec_config": {
