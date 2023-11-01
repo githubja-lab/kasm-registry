@@ -2,7 +2,7 @@
   "friendly_name": "CO3-Chrome-Workspace",
   "image_src": "chrome.png",
   "description": "Google Chrome is a cross-platform web browser developed by Google.",
-  "name": "dockerhubja/dockerhubja/co3-chrome-workspace:dev-1.13",
+  "name": "dockerhubja/co3-chrome-workspace:dev-1.13",
   "cores": 2,
   "memory": 2768,
   "uncompressed_size_mb": 2590,
