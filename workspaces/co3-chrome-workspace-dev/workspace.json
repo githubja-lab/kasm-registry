@@ -1,8 +1,8 @@
 {
-  "friendly_name": "CO3-Chrome-Workspace",
+  "friendly_name": "CO3-Chrome-Workspace-Dev",
   "image_src": "chrome.png",
   "description": "Google Chrome is a cross-platform web browser developed by Google.",
-  "name": "dockerhubja/co3-chrome-workspace:dev-1.0",
+  "name": "dockerhubja/co3-chrome-workspace:dev-1.1",
   "cores": 2,
   "memory": 2768,
   "uncompressed_size_mb": 2590,
@@ -10,7 +10,7 @@
   "cpu_allocation_method": "Inherit",
   "docker_registry": "https://index.docker.io/v1/",
   "categories": [
-    "Browser"
+    "Browser" 
   ],
   "require_gpu": false,
   "enabled": true,
